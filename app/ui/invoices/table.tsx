@@ -90,6 +90,7 @@ export default async function InvoicesTable({
                         className="rounded-full"
                         width={28}
                         height={28}
+                        alt="Screenshots of the dashboard project showing desktop version"
                       />
                       <p>{invoice.name}</p>
                     </div>
